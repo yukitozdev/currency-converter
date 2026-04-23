@@ -4,11 +4,13 @@ Um conversor de moedas moderno desenvolvido em Python, utilizando a biblioteca T
 
 ## 📸 Demonstração
 
-![Demonstracao1](preview1).png
-![Demonstracao2](preview2).png
-![Demonstracao3](preview3).png
-![Demonstracao4](preview4).png
-![Demonstracao5](preview5).png
+<div align="center">
+  <img src="preview1.png" width="180">
+  <img src="preview2.png" width="180">
+  <img src="preview3.png" width="180">
+  <img src="preview4.png" width="180">
+  <img src="preview5.png" width="180">
+</div>
 
 ## ✨ Funcionalidades
 
